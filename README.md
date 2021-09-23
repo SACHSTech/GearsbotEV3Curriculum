@@ -1,1 +1,2 @@
-# GearsbotEV3Curriculum
+# Gearsbot EV3 Curriculum
+
