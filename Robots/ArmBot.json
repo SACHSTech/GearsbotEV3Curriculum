@@ -1,0 +1,59 @@
+{
+  "name": "ArmBot",
+  "shortDescription": "ArmBot",
+  "longDescription": "<p>Custom robot created in the configurator.</p>",
+  "longerDescription": "<h3>#robot-dimensions#</h3><ul><li>#robot-wheelDiameter#: 5.6 cm</li><li>#robot-wheelSpacing#: 15.2 cm</li></ul><h3>#robot-actuators#</h3><ul><li>#robot-port# A : #robot-leftWheel#</li><li>#robot-port# B : #robot-rightWheel#</li><li>#robot-port# C : #robot-motorizedArm#</li></ul><h3>#robot-sensors#</h3><ul></ul>",
+  "thumbnail": "",
+  "bodyHeight": 4,
+  "bodyWidth": 14,
+  "bodyLength": 16,
+  "wheels": true,
+  "wheelDiameter": 5.6,
+  "wheelWidth": 0.8,
+  "wheelToBodyOffset": 0.2,
+  "bodyEdgeToWheelCenterY": 1,
+  "bodyEdgeToWheelCenterZ": 2,
+  "bodyMass": 1000,
+  "wheelMass": 200,
+  "casterMass": 0,
+  "caster": true,
+  "wheelFriction": 10,
+  "bodyFriction": 0,
+  "casterFriction": 0,
+  "color": "#F09C0D",
+  "imageType": "all",
+  "imageURL": "textures/robot/captureBotBody.png",
+  "components": [
+    {
+      "type": "ArmActuator",
+      "position": [
+        0,
+        3,
+        -2
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "components": [],
+      "options": {
+        "armLength": 18,
+        "minAngle": -5,
+        "maxAngle": 180,
+        "mass": 100,
+        "startAngle": 0,
+        "baseColor": "A39C0D",
+        "pivotColor": "808080",
+        "armColor": "A3CF0D",
+        "imageType": "repeat",
+        "imageURL": "",
+        "uScale": 1,
+        "vScale": 1,
+        "restitution": 0.4,
+        "friction": 0.1
+      }
+    }
+  ],
+  "options": {}
+}
