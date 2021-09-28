@@ -60,7 +60,7 @@
       {
         "type": "box",
         "position": [
-          0,
+          35,
           0,
           0.05
         ],
@@ -73,8 +73,8 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          20,
-          3,
+          100,
+          5,
           0.1
         ],
         "modelURL": "",
