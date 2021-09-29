@@ -20,3 +20,6 @@ https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/cu
 
 ## Warehouse Wall
 https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_warehouse_wall.json
+
+## Small Table
+https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_small_table.json
