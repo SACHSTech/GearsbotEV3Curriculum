@@ -16,3 +16,7 @@ https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/cu
 
 ## Orchard
 https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_orchard.json
+
+
+## Touch Wall
+https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/touchWall.json
