@@ -18,5 +18,5 @@ https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/cu
 https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_orchard.json
 
 
-## Touch Wall
-https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/touch_wall.json
+## Warehouse Wall
+https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_warehouse_wall.json
