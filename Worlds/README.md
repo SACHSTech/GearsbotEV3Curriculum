@@ -19,4 +19,4 @@ https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/cu
 
 
 ## Touch Wall
-https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/touchWall.json
+https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/touch_wall.json
