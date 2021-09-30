@@ -5,3 +5,6 @@ https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Robots/ba
 
 ## Arm Bot
 https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Robots/ArmBot.json
+
+## Ultrasonic Bot
+https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Robots/ultrasonicbot.json
