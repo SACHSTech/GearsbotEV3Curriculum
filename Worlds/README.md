@@ -34,4 +34,4 @@ https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/cu
 https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_world_ultrasonic_close.json
 
 ## Maze 4x4
-https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/mazeMap_config.json
+https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/mazeMap_config_fixed.json
