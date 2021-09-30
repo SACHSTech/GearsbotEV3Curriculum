@@ -29,3 +29,6 @@ https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/cu
 
 ## Ultrasonic wall
 https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_world_ultrasonic_wall.json
+
+## Ultrasonic wall Close
+https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_world_ultrasonic_close.json
