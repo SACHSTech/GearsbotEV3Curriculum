@@ -35,3 +35,6 @@ https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/cu
 
 ## Maze 4x4
 https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/mazeMap_config_fixed.json
+
+## Bumpy World
+https://raw.githubusercontent.com/SACHSTech/GearsbotEV3Curriculum/main/Worlds/custom_bumpy_world.json
