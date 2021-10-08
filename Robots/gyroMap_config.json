@@ -1,0 +1,13 @@
+{
+  "worldName": "gyro",
+  "options": {
+    "image": "randomDirection",
+    "length": 18,
+    "width": 200,
+    "groundFriction": 1,
+    "wallFriction": 0.1,
+    "groundRestitution": 0,
+    "wallRestitution": 0.1,
+    "straightRunWidth": 18
+  }
+}
