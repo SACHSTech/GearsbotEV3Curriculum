@@ -38,7 +38,7 @@
         "animationKeys": [],
         "size": [
           49,
-          8,
+          31,
           0.1
         ],
         "modelURL": "",
@@ -97,7 +97,7 @@
         "type": "box",
         "position": [
           -1.7338340748742036,
-          6.56560382494294,
+          6.43435800030278,
           0.05
         ],
         "rotationMode": "degrees",
@@ -110,7 +110,7 @@
         "animationKeys": [],
         "size": [
           49,
-          8,
+          31,
           0.1
         ],
         "modelURL": "",
