@@ -98,7 +98,7 @@
         "position": [
           -0.40288606753125533,
           -16.652963424607478,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -109,7 +109,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
@@ -134,7 +134,7 @@
         "position": [
           -0.33805866449051036,
           -109.3828122058837,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -145,7 +145,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
@@ -170,7 +170,7 @@
         "position": [
           -0.5465573451360548,
           92.79695965712875,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -181,7 +181,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
@@ -206,7 +206,7 @@
         "position": [
           -0.11590488820171485,
           35.76243810531351,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -217,14 +217,14 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
-        "color": "#0000ffff",
+        "color": "#ffff00ff",
         "imageType": "cylinder",
         "imageURL": "",
         "uScale": 1,
@@ -242,7 +242,7 @@
         "position": [
           -1.0660925937203949,
           62.34869878360071,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -253,7 +253,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
@@ -278,7 +278,7 @@
         "position": [
           -0.221575708644298,
           116.77965174060365,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -289,14 +289,14 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
         "modelURL": "",
         "modelScale": 10,
         "modelAnimation": "None",
-        "color": "#ff0000ff",
+        "color": "#000000ff",
         "imageType": "cylinder",
         "imageURL": "",
         "uScale": 1,
@@ -314,7 +314,7 @@
         "position": [
           -0.7657442562446799,
           6.188230195419763,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -325,7 +325,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
@@ -350,7 +350,7 @@
         "position": [
           -0.555117199501399,
           -40.576382220496086,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -361,7 +361,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
@@ -386,7 +386,7 @@
         "position": [
           -0.6480581977492501,
           -88.35514159138025,
-          3.5
+          6.5
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -397,7 +397,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          13,
           7,
           16
         ],
@@ -422,7 +422,7 @@
         "position": [
           -0.4399431627284005,
           -66.82581141463741,
-          3.5
+          6
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -433,7 +433,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          7,
+          12,
           7,
           16
         ],
