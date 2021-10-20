@@ -1,0 +1,12 @@
+{
+  "worldName": "sumo",
+  "options": {
+    "image": "randomDummies",
+    "length": 100,
+    "width": 100,
+    "groundFriction": 1,
+    "wallFriction": 0.1,
+    "groundRestitution": 0,
+    "wallRestitution": 0.1
+  }
+}
