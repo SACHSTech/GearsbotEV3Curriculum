@@ -1,0 +1,14 @@
+{
+  "worldName": "lineFollowing",
+  "options": {
+    "image": "simple",
+    "length": 100,
+    "width": 200,
+    "groundFriction": 1,
+    "wallFriction": 0.1,
+    "groundRestitution": 0,
+    "wallRestitution": 0.1,
+    "startPosXY": "",
+    "startRot": ""
+  }
+}
