@@ -132,8 +132,44 @@
       {
         "type": "box",
         "position": [
-          -93.3444652745952,
-          59.366009039637945,
+          78.65310457852351,
+          -61.303519591052535,
+          15
+        ],
+        "rotationMode": "degrees",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "animationMode": "none",
+        "animationKeys": [],
+        "size": [
+          30,
+          5,
+          30
+        ],
+        "modelURL": "",
+        "modelScale": 10,
+        "modelAnimation": "None",
+        "color": "#656581ff",
+        "imageType": "repeat",
+        "imageURL": "textures/box/cautionSquare.png",
+        "uScale": 1,
+        "vScale": 1,
+        "physicsOptions": "fixed",
+        "magnetic": false,
+        "laserDetection": null,
+        "ultrasonicDetection": null,
+        "receiveShadows": false,
+        "castShadows": true,
+        "isPickable": true
+      },
+      {
+        "type": "box",
+        "position": [
+          -93.43284030142146,
+          59.2764156271097,
           0.5
         ],
         "rotationMode": "degrees",
