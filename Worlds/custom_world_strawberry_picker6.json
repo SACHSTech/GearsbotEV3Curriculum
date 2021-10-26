@@ -109,7 +109,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -126,7 +126,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
@@ -145,7 +145,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -162,7 +162,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
@@ -181,7 +181,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -198,7 +198,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
@@ -217,7 +217,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -234,7 +234,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
@@ -253,7 +253,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -289,7 +289,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -306,7 +306,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
@@ -325,7 +325,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -342,7 +342,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
@@ -361,7 +361,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -378,7 +378,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
@@ -397,7 +397,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -414,7 +414,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
@@ -433,7 +433,7 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          12,
+          15,
           7,
           16
         ],
@@ -450,7 +450,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       }
     ],
