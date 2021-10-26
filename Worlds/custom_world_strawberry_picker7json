@@ -270,7 +270,7 @@
         "laserDetection": null,
         "ultrasonicDetection": null,
         "receiveShadows": false,
-        "castShadows": true,
+        "castShadows": false,
         "isPickable": true
       },
       {
