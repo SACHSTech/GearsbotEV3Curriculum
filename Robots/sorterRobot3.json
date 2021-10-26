@@ -2,7 +2,7 @@
   "name": "singleFollower (Custom)",
   "shortDescription": "singleFollower (Custom)",
   "longDescription": "<p>Custom robot created in the configurator.</p>",
-  "longerDescription": "<h3>#robot-dimensions#</h3><ul><li>#robot-wheelDiameter#: 5.6 cm</li><li>#robot-wheelSpacing#: 15.2 cm</li></ul><h3>#robot-actuators#</h3><ul><li>#robot-port# A : #robot-leftWheel#</li><li>#robot-port# B : #robot-rightWheel#</li><li>#robot-port# C : #robot-motorizedArm#</li></ul><h3>#robot-sensors#</h3><ul><li>#robot-port# 1 : #robot-color#</li><li>#robot-port# 2 : #robot-gyro#</li><li>#robot-port# 3 : #robot-ultrasonic#</li></ul>",
+  "longerDescription": "<h3>#robot-dimensions#</h3><ul><li>#robot-wheelDiameter#: 5.6 cm</li><li>#robot-wheelSpacing#: 15.2 cm</li></ul><h3>#robot-actuators#</h3><ul><li>#robot-port# A : #robot-leftWheel#</li><li>#robot-port# B : #robot-rightWheel#</li><li>#robot-port# C : #robot-motorizedArm#</li></ul><h3>#robot-sensors#</h3><ul><li>#robot-port# 1 : #robot-color#</li><li>#robot-port# 2 : #robot-ultrasonic#</li><li>#robot-port# 3 : #robot-gyro#</li></ul>",
   "thumbnail": "",
   "bodyHeight": 4,
   "bodyWidth": 14,
@@ -96,6 +96,20 @@
             "uScale": 1,
             "vScale": 1
           }
+        },
+        {
+          "type": "UltrasonicSensor",
+          "position": [
+            -5.982371617034373,
+            -0.3661444734282071,
+            12.801366259449964
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "options": {}
         }
       ],
       "options": {
@@ -121,20 +135,6 @@
         0,
         2,
         0
-      ],
-      "rotation": [
-        0,
-        0,
-        0
-      ],
-      "options": {}
-    },
-    {
-      "type": "UltrasonicSensor",
-      "position": [
-        0,
-        2.4,
-        8
       ],
       "rotation": [
         0,
