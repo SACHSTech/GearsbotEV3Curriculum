@@ -206,7 +206,7 @@
         "position": [
           46.78179551458103,
           -44.698935636351735,
-          0.5
+          0.10000000000000002
         ],
         "rotationMode": "degrees",
         "rotation": [
@@ -217,9 +217,9 @@
         "animationMode": "none",
         "animationKeys": [],
         "size": [
-          30,
-          30,
-          0.2
+          33,
+          33,
+          0.1
         ],
         "modelURL": "",
         "modelScale": 10,
