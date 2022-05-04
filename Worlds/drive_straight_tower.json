@@ -8,6 +8,6 @@
     "wallFriction": 0.1,
     "groundRestitution": 0,
     "wallRestitution": 0.1,
-    "straightRunWidth": 18
+    "straightRunWidth": 20
   }
 }
